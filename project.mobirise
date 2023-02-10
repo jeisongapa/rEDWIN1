@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "spiritm5",
       "title": "SpiritM5",
@@ -1116,7 +1116,7 @@
         }
       ]
     },
-    "page1.html": {
+    "pactos.html": {
       "settings": {
         "title": "Pactos",
         "meta_descr": "Haga un poderoso pacto con lucifer y cambie su vida.",
